@@ -1,0 +1,15 @@
+C:\Users\Neogene\Downloads\Wii\WiiDesktopVR\WiiDesktopVR\bin\Debug\WiiDesktopVR.exe
+C:\Users\Neogene\Downloads\Wii\WiiDesktopVR\WiiDesktopVR\bin\Debug\WiiDesktopVR.pdb
+C:\Users\Neogene\Downloads\Wii\WiiDesktopVR\WiiDesktopVR\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Neogene\Downloads\Wii\WiiDesktopVR\WiiDesktopVR\obj\Debug\WiiDesktopVR.exe
+C:\Users\Neogene\Downloads\Wii\WiiDesktopVR\WiiDesktopVR\obj\Debug\WiiDesktopVR.pdb
+C:\Users\Luke\Desktop\WiiDesktopVR_x64\WiiDesktopVR\obj\Debug\WiiDesktopVR.exe
+C:\Users\Luke\Desktop\WiiDesktopVR_x64\WiiDesktopVR\obj\Debug\WiiDesktopVR.pdb
+C:\Users\Luke\Desktop\WiiDesktopVR_x64\WiiDesktopVR\bin\Debug\WiiDesktopVR.exe
+C:\Users\Luke\Desktop\WiiDesktopVR_x64\WiiDesktopVR\bin\Debug\WiiDesktopVR.pdb
+C:\Users\Luke\Desktop\WiiDesktopVR_x64\WiiDesktopVR\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Brian\Desktop\WiiDesktopVrWin7x64\WiiDesktopVrWin7x64\WiiDesktopVR\obj\Debug\WiiDesktopVR.exe
+C:\Users\Brian\Desktop\WiiDesktopVrWin7x64\WiiDesktopVrWin7x64\WiiDesktopVR\obj\Debug\WiiDesktopVR.pdb
+C:\Users\Brian\Desktop\WiiDesktopVrWin7x64\WiiDesktopVrWin7x64\WiiDesktopVR\bin\Debug\WiiDesktopVR.exe
+C:\Users\Brian\Desktop\WiiDesktopVrWin7x64\WiiDesktopVrWin7x64\WiiDesktopVR\bin\Debug\WiiDesktopVR.pdb
+C:\Users\Brian\Desktop\WiiDesktopVrWin7x64\WiiDesktopVrWin7x64\WiiDesktopVR\obj\Debug\WiiDesktopVR.csprojResolveAssemblyReference.cache

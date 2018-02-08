@@ -1,0 +1,3 @@
+C:\Users\Neogene\Downloads\Wii\WiiDesktopVR\WiiDesktopVR\obj\Release\WiiDesktopVR.exe
+C:\Users\Neogene\Downloads\Wii\WiiDesktopVR\WiiDesktopVR\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Neogene\Downloads\Wii\WiiDesktopVR\WiiDesktopVR\bin\Release\WiiDesktopVR.exe

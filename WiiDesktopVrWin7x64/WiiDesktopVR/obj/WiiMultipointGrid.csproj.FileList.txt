@@ -1,0 +1,8 @@
+bin\Release\WiiMultipointGrid.exe
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\WiiMultipointGrid.exe
+bin\Debug\WiiMultipointGrid.exe
+bin\Debug\WiiMultipointGrid.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\WiiMultipointGrid.exe
+obj\Debug\WiiMultipointGrid.pdb

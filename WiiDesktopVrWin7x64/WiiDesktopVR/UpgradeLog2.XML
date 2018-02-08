@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="WiiDesktopVR">
+</Property><Property Name="Solution File" Value="C:\Users\Luke\Desktop\WiiDesktopVR_x64\WiiDesktopVR\WiiDesktopVR.sln">
+</Property><Property Name="User Options File" Value="C:\Users\Luke\Desktop\WiiDesktopVR_x64\WiiDesktopVR\WiiDesktopVR.suo">
+</Property><Property Name="Date" Value="Monday, November 19, 2012">
+</Property><Property Name="Time" Value="12:56 PM">
+</Property><Property Name="Log Number" Value="2">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="WiiDesktopVR.sln" Description="File successfully backed up as C:\Users\Luke\Desktop\WiiDesktopVR_x64\WiiDesktopVR\Backup\WiiDesktopVR.sln">
+</Event><Event ErrorLevel="0" Project="" Source="WiiDesktopVR.suo" Description="File successfully backed up as C:\Users\Luke\Desktop\WiiDesktopVR_x64\WiiDesktopVR\Backup\WiiDesktopVR.suo">
+</Event><Event ErrorLevel="0" Project="WiiDesktopVR" Source="WiiDesktopVR.csproj" Description="Project file successfully backed up as C:\Users\Luke\Desktop\WiiDesktopVR_x64\WiiDesktopVR\Backup\WiiDesktopVR.csproj">
+</Event><Event ErrorLevel="0" Project="WiiDesktopVR" Source="WiiDesktopVR.csproj.user" Description="Project user file successfully backed up as C:\Users\Luke\Desktop\WiiDesktopVR_x64\WiiDesktopVR\Backup\WiiDesktopVR.csproj.user">
+</Event><Event ErrorLevel="0" Project="WiiDesktopVR" Source="Common\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\Luke\Desktop\WiiDesktopVR_x64\WiiDesktopVR\Backup\Common\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="WiiDesktopVR" Source="Common\dxmut.cs" Description="File successfully backed up as C:\Users\Luke\Desktop\WiiDesktopVR_x64\WiiDesktopVR\Backup\Common\dxmut.cs">
+</Event><Event ErrorLevel="0" Project="WiiDesktopVR" Source="Common\dxmutdata.cs" Description="File successfully backed up as C:\Users\Luke\Desktop\WiiDesktopVR_x64\WiiDesktopVR\Backup\Common\dxmutdata.cs">
+</Event><Event ErrorLevel="0" Project="WiiDesktopVR" Source="Common\dxmutenum.cs" Description="File successfully backed up as C:\Users\Luke\Desktop\WiiDesktopVR_x64\WiiDesktopVR\Backup\Common\dxmutenum.cs">
+</Event><Event ErrorLevel="0" Project="WiiDesktopVR" Source="Common\dxmutexception.cs" Description="File successfully backed up as C:\Users\Luke\Desktop\WiiDesktopVR_x64\WiiDesktopVR\Backup\Common\dxmutexception.cs">
+</Event><Event ErrorLevel="0" Project="WiiDesktopVR" Source="Common\dxmutgui.cs" Description="File successfully backed up as C:\Users\Luke\Desktop\WiiDesktopVR_x64\WiiDesktopVR\Backup\Common\dxmutgui.cs">
+</Event><Event ErrorLevel="0" Project="WiiDesktopVR" Source="Common\dxmutmesh.cs" Description="File successfully backed up as C:\Users\Luke\Desktop\WiiDesktopVR_x64\WiiDesktopVR\Backup\Common\dxmutmesh.cs">
+</Event><Event ErrorLevel="0" Project="WiiDesktopVR" Source="Common\dxmutmisc.cs" Description="File successfully backed up as C:\Users\Luke\Desktop\WiiDesktopVR_x64\WiiDesktopVR\Backup\Common\dxmutmisc.cs">
+</Event><Event ErrorLevel="0" Project="WiiDesktopVR" Source="Common\dxmutSettingsDlg.cs" Description="File successfully backed up as C:\Users\Luke\Desktop\WiiDesktopVR_x64\WiiDesktopVR\Backup\Common\dxmutSettingsDlg.cs">
+</Event><Event ErrorLevel="0" Project="WiiDesktopVR" Source="CrosshairCursor.cs" Description="File successfully backed up as C:\Users\Luke\Desktop\WiiDesktopVR_x64\WiiDesktopVR\Backup\CrosshairCursor.cs">
+</Event><Event ErrorLevel="0" Project="WiiDesktopVR" Source="DataTypes.cs" Description="File successfully backed up as C:\Users\Luke\Desktop\WiiDesktopVR_x64\WiiDesktopVR\Backup\DataTypes.cs">
+</Event><Event ErrorLevel="0" Project="WiiDesktopVR" Source="Events.cs" Description="File successfully backed up as C:\Users\Luke\Desktop\WiiDesktopVR_x64\WiiDesktopVR\Backup\Events.cs">
+</Event><Event ErrorLevel="0" Project="WiiDesktopVR" Source="HIDImports.cs" Description="File successfully backed up as C:\Users\Luke\Desktop\WiiDesktopVR_x64\WiiDesktopVR\Backup\HIDImports.cs">
+</Event><Event ErrorLevel="0" Project="WiiDesktopVR" Source="Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\Luke\Desktop\WiiDesktopVR_x64\WiiDesktopVR\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="WiiDesktopVR" Source="WiiDesktopVR.cs" Description="File successfully backed up as C:\Users\Luke\Desktop\WiiDesktopVR_x64\WiiDesktopVR\Backup\WiiDesktopVR.cs">
+</Event><Event ErrorLevel="0" Project="WiiDesktopVR" Source="Wiimote.cs" Description="File successfully backed up as C:\Users\Luke\Desktop\WiiDesktopVR_x64\WiiDesktopVR\Backup\Wiimote.cs">
+</Event><Event ErrorLevel="0" Project="WiiDesktopVR" Source="Common\directx.ico" Description="File successfully backed up as C:\Users\Luke\Desktop\WiiDesktopVR_x64\WiiDesktopVR\Backup\Common\directx.ico">
+</Event><Event ErrorLevel="0" Project="WiiDesktopVR" Source="WiiDesktopVR.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="WiiDesktopVR" Source="WiiDesktopVR.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="WiiDesktopVR.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="WiiDesktopVR.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="WiiDesktopVR" Source="WiiDesktopVR.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

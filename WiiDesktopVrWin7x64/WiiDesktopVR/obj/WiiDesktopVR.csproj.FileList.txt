@@ -1,0 +1,8 @@
+obj\Release\ResolveAssemblyReference.cache
+bin\Release\WiiDesktopVR.exe
+obj\Release\WiiDesktopVR.exe
+bin\Debug\WiiDesktopVR.exe
+bin\Debug\WiiDesktopVR.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\WiiDesktopVR.exe
+obj\Debug\WiiDesktopVR.pdb

@@ -1,0 +1,8 @@
+bin\Release\TextureTutorial.exe
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\TextureTutorial.exe
+obj\Debug\ResolveAssemblyReference.cache
+bin\Debug\TextureTutorial.exe
+bin\Debug\TextureTutorial.pdb
+obj\Debug\TextureTutorial.exe
+obj\Debug\TextureTutorial.pdb

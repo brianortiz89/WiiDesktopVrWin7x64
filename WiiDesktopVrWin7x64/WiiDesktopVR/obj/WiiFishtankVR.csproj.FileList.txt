@@ -1,0 +1,8 @@
+obj\Release\ResolveAssemblyReference.cache
+bin\Release\WiiFishtankVR.exe
+obj\Release\WiiFishtankVR.exe
+bin\Debug\WiiFishtankVR.exe
+bin\Debug\WiiFishtankVR.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\WiiFishtankVR.exe
+obj\Debug\WiiFishtankVR.pdb
